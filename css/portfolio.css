@@ -1,0 +1,24 @@
+.left-text{
+    font-family: 'Franklin Gothic Medium';
+    color: orange;
+    font-size: 100px;
+    padding-left: 160px;
+}
+.block2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.pictures{
+    padding-right: 25px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 750px;
+    border-bottom: 5px solid orange;
+}
+.matras{
+    padding-bottom: 100px;
+}
+.stat{
+    padding-bottom: 100px;
+}

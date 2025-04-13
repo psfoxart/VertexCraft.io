@@ -1,0 +1,46 @@
+.text-left{
+    color: white;
+    font-family: Helvetica;
+    width: 800px;
+    font-size: 25px;
+    line-height: 1.5;
+}
+.welcom{
+    margin-bottom: 52px;
+    font-size: 40px;
+    color: orange;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.opred{
+    margin-bottom: 104px;
+}
+ol li{
+    margin-bottom: 15px;
+}
+
+.spec{
+    margin-bottom: 104px;
+}
+
+.work{
+    margin-bottom: 104px;
+}
+
+.lubov{
+    color: orange;
+}
+
+.pictures{
+    width: 500px;
+}
+
+.meme{
+    margin-top: 90px;
+    margin-left: 350px;
+}
+
+.block1 {
+    justify-content: left;
+    align-items: flex-start;
+}
